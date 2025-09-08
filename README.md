@@ -8,7 +8,7 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dithnim.dithnim&right_color=chocolate"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dithnim&right_color=chocolate"  />
 </div>
 
 ###
